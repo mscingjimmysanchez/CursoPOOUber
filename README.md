@@ -1,2 +1,2 @@
 # CursoPOOUber
-Code from the Platzi Object Oriented Programming (OOP) course.
+Code from the Object Oriented Programming (OOP) Platzi course.
